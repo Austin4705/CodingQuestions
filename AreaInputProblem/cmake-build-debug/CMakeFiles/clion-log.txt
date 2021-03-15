@@ -1,0 +1,4 @@
+"F:\Jetbrains\CLion 2020.1.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=F:/Msys2/mingw64/bin/clang.exe -DCMAKE_CXX_COMPILER=F:/Msys2/mingw64/bin/clang++.exe -G "CodeBlocks - MinGW Makefiles" X:\Repositorys\Tests\CodingQuestions\AreaInputProblem
+-- Configuring done
+-- Generating done
+-- Build files have been written to: X:/Repositorys/Tests/CodingQuestions/AreaInputProblem/cmake-build-debug

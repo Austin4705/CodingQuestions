@@ -1,0 +1,9 @@
+square 5
+square 5
+square 5
+circle 5
+rectangle 5 20
+triangle 20 60
+circle 5
+triangle 40 20
+square .25
