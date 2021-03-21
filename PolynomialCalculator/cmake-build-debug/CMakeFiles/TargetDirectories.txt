@@ -1,0 +1,3 @@
+C:/Users/austi/Files/Repositorys/PolynomialCalculator/cmake-build-debug/CMakeFiles/PolynomialCalculator.dir
+C:/Users/austi/Files/Repositorys/PolynomialCalculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/austi/Files/Repositorys/PolynomialCalculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
