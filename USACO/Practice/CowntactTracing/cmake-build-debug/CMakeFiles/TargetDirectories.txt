@@ -1,0 +1,3 @@
+X:/Repositorys/CodingQuestions/USACO/Practice/CowntactTracing/cmake-build-debug/CMakeFiles/CowntactTracing.dir
+X:/Repositorys/CodingQuestions/USACO/Practice/CowntactTracing/cmake-build-debug/CMakeFiles/edit_cache.dir
+X:/Repositorys/CodingQuestions/USACO/Practice/CowntactTracing/cmake-build-debug/CMakeFiles/rebuild_cache.dir

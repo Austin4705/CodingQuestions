@@ -1,0 +1,3 @@
+"F:\Jetbrains\CLion 2020.1.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\CowntactTracing.dir/objects.a
+F:\Msys2\mingw64\bin\ar.exe cr CMakeFiles\CowntactTracing.dir/objects.a @CMakeFiles\CowntactTracing.dir\objects1.rsp
+F:\Msys2\mingw64\bin\clang++.exe -g   -Wl,--whole-archive CMakeFiles\CowntactTracing.dir/objects.a -Wl,--no-whole-archive  -o CowntactTracing.exe -Wl,--out-implib,libCowntactTracing.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CowntactTracing.dir\linklibs.rsp
