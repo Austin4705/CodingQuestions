@@ -1,0 +1,3 @@
+C:/Users/austi/Files/Clion/3CenterHoleCalculator/cmake-build-debug/CMakeFiles/3CenterHoleCalculator.dir
+C:/Users/austi/Files/Clion/3CenterHoleCalculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/austi/Files/Clion/3CenterHoleCalculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
