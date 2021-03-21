@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+X:/Repositorys/PrimeCalculator/main.cpp
+iostream
+-
+vector
+-
+atomic
+-
+thread
+-
+chrono
+-
+mutex
+-
+time.h
+-
+functional
+-
+
