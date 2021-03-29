@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="FindMode" targetName="FindMode" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fabfa6d9-43aa-414a-9667-f8b60640545e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/.idea/CowntactTracing.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/cmake-build-debug/CMakeFiles/3.16.5/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/cmake-build-debug/CMakeFiles/3.16.5/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/cmake-build-debug/CMakeFiles/3.16.5/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/cmake-build-debug/CMakeFiles/3.16.5/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/cmake-build-debug/CMakeFiles/3.16.5/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/cmake-build-debug/CMakeFiles/3.16.5/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/cmake-build-debug/CMakeFiles/3.16.5/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/cmake-build-debug/CMakeFiles/3.16.5/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/cmake-build-debug/CMakeFiles/3.16.5/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/cmake-build-debug/CMakeFiles/3.16.5/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/cmake-build-debug/CMakeFiles/CowntactTracing.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/cmake-build-debug/CMakeFiles/CowntactTracing.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/cmake-build-debug/CMakeFiles/CowntactTracing.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/cmake-build-debug/CMakeFiles/CowntactTracing.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/cmake-build-debug/CMakeFiles/CowntactTracing.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/cmake-build-debug/CMakeFiles/CowntactTracing.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/cmake-build-debug/CMakeFiles/CowntactTracing.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/cmake-build-debug/CMakeFiles/CowntactTracing.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/cmake-build-debug/CMakeFiles/CowntactTracing.dir/linklibs.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/cmake-build-debug/CMakeFiles/CowntactTracing.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/cmake-build-debug/CMakeFiles/CowntactTracing.dir/objects.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/cmake-build-debug/CMakeFiles/CowntactTracing.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/cmake-build-debug/CMakeFiles/CowntactTracing.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/cmake-build-debug/CowntactTracing.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/cmake-build-debug/CowntactTracing.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/cmake-build-debug/tracing.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/Practice/CowntactTracing/main.cpp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1qRpLl2qFeqjGYIpzy4WYEGtFZr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="FindMode" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FindMode" TARGET_NAME="FindMode" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="FindMode" RUN_TARGET_NAME="FindMode">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fabfa6d9-43aa-414a-9667-f8b60640545e" name="Default Changelist" comment="" />
+      <created>1617052202285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617052202285</updated>
+      <workItem from="1617052203592" duration="47000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1921" height="289" key="GridCell.Tab.0.bottom" timestamp="1617052250425">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1617052250425" />
+    <state width="1921" height="289" key="GridCell.Tab.0.center" timestamp="1617052250425">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1617052250425" />
+    <state width="1921" height="289" key="GridCell.Tab.0.left" timestamp="1617052250425">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1617052250425" />
+    <state width="1921" height="289" key="GridCell.Tab.0.right" timestamp="1617052250425">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1617052250425" />
+  </component>
+</project>
